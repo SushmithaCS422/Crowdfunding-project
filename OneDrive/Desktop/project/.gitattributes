@@ -1,3 +1,5 @@
 project[[:space:]]dashboard.pbix filter=lfs diff=lfs merge=lfs -text
 power[[:space:]]bi[[:space:]]dashboard.pbix filter=lfs diff=lfs merge=lfs -text
 dashboard.twbx filter=lfs diff=lfs merge=lfs -text
+crowdfunding.pbix*crowdfunding.twbx*crowdfunding.xlsx*dataset.xlsx filter=lfs diff=lfs merge=lfs -text
+crowdfunding.pbix filter=lfs diff=lfs merge=lfs -text
