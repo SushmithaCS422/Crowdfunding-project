@@ -8,3 +8,9 @@ Data cleaning
 Handling missing values
 Normalization/Standardization
 
+Key Findings
+•	The total pledged amount was $2.018 million, reflecting the massive impact of crowdfunding.
+•	More than 365,000 projects were analyzed, spanning across various industries and categories.
+•	The majority of crowdfunding activity was concentrated in the United States (96,211 projects).
+•	Other countries had significantly fewer projects, highlighting the need for global expansion of crowdfunding efforts.
+•	Our time-series analysis revealed that the highest number of projects were created in 2014, followed by a decline in recent years.
